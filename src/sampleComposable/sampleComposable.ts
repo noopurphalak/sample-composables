@@ -4,7 +4,8 @@ export const sampleComposable = () => {
   const count = ref<number>(0)
 
   const increment = () => {
-    count.value = count.value++
+    count.value++
+    console.log(count.value)
   }
 
   return {
