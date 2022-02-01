@@ -18,7 +18,6 @@
 
    ```javascript
        <template>
-
            <img alt="Vue logo" src="./assets/logo.png" />
            <button @click="increment()">{{ count }}</button>
        </template>
