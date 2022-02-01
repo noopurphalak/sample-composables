@@ -1,6 +1,6 @@
 {
   "name": "sample-composables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample package to demonstrate the packaging of the vue3 composables",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
