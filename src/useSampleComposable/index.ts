@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 
-export const sampleComposable = () => {
+export const useSampleComposable = () => {
   const count = ref(0)
 
   const increment = () => {

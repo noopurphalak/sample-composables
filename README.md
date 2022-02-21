@@ -23,8 +23,8 @@
        </template>
 
        <script lang="ts" setup>
-           import { sampleComposable } from "sample-composables";
-           const { count, increment } = sampleComposable();
+           import { useSampleComposable } from "sample-composables";
+           const { count, increment } = useSampleComposable();
        </script>
        <script lang="ts">
            export default {

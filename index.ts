@@ -1,1 +1,1 @@
-export * from './src/sampleComposable'
+export * from './src/useSampleComposable'
